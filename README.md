@@ -9,7 +9,41 @@ git clone[https://github.com/Prachi551/portfolio_website-Prachi-Yadav-2501010119
 2. In order to run it we can directly open the index.html file on our web browser
 and even we can see the output using live server also
 # Screenshots of Output 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+
+![Screenshot 1](images/image.png)
+![Screenshot 2](images/image-1.png)
+![Screenshot 3](images/image-2.png)
+## 📁 Repository Structure
+
+```
+Portfolio-Webpage/
+│
+├── .gitignore
+├── index.html
+├── style.css
+│
+├── images/
+│   ├── image.png
+│   ├── image-1.png
+│   ├── image-2.png
+│   ├── calorie.png
+│   ├── calorie2.jpg
+│   ├── calorie3.jpg
+│   ├── pic.jpg
+│   ├── pic1.jpg
+│   ├── pic2.jpg
+│   └── pic3.jpg
+│
+├── README.md
+│
+└── docs/
+    ├── overview.md
+    └── development-process.md
+```
+
+
+
+
+
+>>>>>>> 061781e061e9cd9bf8e1beb7817b95fa962f47ad
 
