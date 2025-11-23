@@ -10,7 +10,7 @@ Sketched a basic structure for the webpage.
 
 Creating the HTML structure
 
-Built the main layout using semantic HTML tags like <header>, <section>, and <footer>
+Built the main layout using semantic HTML tags.
 
 Added content such as text, images, and links.
 
