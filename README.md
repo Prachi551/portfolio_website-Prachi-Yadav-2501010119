@@ -12,6 +12,8 @@ and even we can see the output using live server also
 ![Screenshot 1](images/image.png)
 ![Screenshot 2](images/image-1.png)
 ![Screenshot 3](images/image-2.png)
+## 📁 Repository Structure
+
 
 
 
