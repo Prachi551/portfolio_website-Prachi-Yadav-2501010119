@@ -121,15 +121,15 @@ p{
 
 
 @keyframes Project1 {
-    0% {background-image: url('calorie.png');}
-    33% {background-image: url('calorie2.jpg');}
-    66% {background-image: url('calorie3.jpg');}
-    100% {background-image: url('calorie.png');}
+    0% {background-image: url('images/calorie.png');}
+    33% {background-image: url('images/calorie2.jpg');}
+    66% {background-image: url('images/calorie3.jpg');}
+    100% {background-image: url('images/calorie.png');}
 }
 @keyframes Project2 {
-    0% {background-image: url('pic1.jpg'); }
-    50% {background-image: url(pic2.jpg);}
-    100% {background-image: url('pic3.jpg');}
+    0% {background-image: url('images/pic1.jpg'); }
+    50% {background-image: url('images/pic2.jpg');}
+    100% {background-image: url('images/pic3.jpg');}
 }
 
 
