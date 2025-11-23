@@ -14,6 +14,34 @@ and even we can see the output using live server also
 ![Screenshot 3](images/image-2.png)
 ## 📁 Repository Structure
 
+```
+Portfolio-Webpage/
+│
+├── .gitignore
+├── index.html
+├── style.css
+│
+├── images/
+│   ├── image.png
+│   ├── image-1.png
+│   ├── image-2.png
+│   ├── calorie.png
+│   ├── calorie2.jpg
+│   ├── calorie3.jpg
+│   ├── pic.jpg
+│   ├── pic1.jpg
+│   ├── pic2.jpg
+│   └── pic3.jpg
+│
+├── README.md
+│
+└── docs/
+    ├── overview.md
+    └── development-process.md
+```
+
+
+
 
 
 
